@@ -1,2 +1,2 @@
-# fuchsbjj
-Business Website for Alex Fuchs BJJ
+# sports-coach
+A Responsive Template for Online Coaching
