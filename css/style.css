@@ -45,12 +45,12 @@ a:hover, a:focus{
     text-decoration: none;
 }
 body{
-      
+
       font-family: 'Roboto Slab', serif;
       font-size: 16px;
 }
 .homepage{
-    background: url(../img/bg.jpg) no-repeat center center fixed; 
+    background: url(../img/bg.jpg) no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
@@ -96,7 +96,7 @@ h4 {
 /*header*/
 @media (max-width: 991px) {
 
-  
+
     .navbar-header {
         float: none;
     }
@@ -225,6 +225,16 @@ button.info, button.info2:hover {
   color: white;
   margin-bottom: 10px;
 }
+
+button.info3 {
+  background: rgba(109, 134, 143, 1);
+  padding: 12px 42px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+
+
 p.sub-title-head.text-center.white {
   padding: 14px;
   margin: 12px 0 25px;
@@ -297,7 +307,7 @@ p.sub-title-head.text-center.white {
 .slider .special_font{
     font-size: 40px;
     line-height: 50px;
-    margin-top: 60px;  
+    margin-top: 60px;
 }
 .slider .video .fluid-width-video-wrapper{
     padding-top: 60% !important;
@@ -761,7 +771,7 @@ span.head-text {
 }
 .fa-quote-left,.fa-quote-right{
   font-size: 25px !important;
-  
+
 }
 .fa-quote-left{
   position: relative;
@@ -871,7 +881,14 @@ a.btn-medium.empty:hover {
 /* ---------------------------------------------------------------------- */
 /*  Features
 /* ---------------------------------------------------------------------- */
-
+.mugshot {
+  border-radius: 50%;
+  padding: auto;
+  margin: auto;
+  width: 100%;
+  max-width: 400px
+  height: auto;
+}
 .features {
       background-color: rgba(231, 229, 229, 0.34);
       padding: 120px 0;
