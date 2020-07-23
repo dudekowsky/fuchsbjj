@@ -50,7 +50,7 @@ body{
       font-size: 16px;
 }
 .homepage{
-    background: url(../img/bg.jpg) no-repeat center center fixed;
+    background: url(../img/spiderguarddark.jpg) no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
@@ -740,7 +740,7 @@ p.copyright-text {
 /*  Testimonial
 /* ---------------------------------------------------------------------- */
 .testimonial{
-  background: url(../img/testimonial.jpg) center center/cover no-repeat fixed;
+  background: url(../img/fistbumpdark.jpg) center center/cover no-repeat fixed;
   padding: 120px 0;
 }
 .item-image{
@@ -872,7 +872,7 @@ a.btn-medium.empty:hover {
 /* ---------------------------------------------------------------------- */
 
  section#menu-countdown {
-      background: url(../img/bgclass.jpg) center center/cover no-repeat fixed;
+      background: url(../img/spider.jpg) center center/cover no-repeat fixed;
       background-repeat: no-repeat;
       padding: 100px 0;
 }
